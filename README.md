@@ -5,6 +5,8 @@
 > **Status:** Proposta-Base de Fundação em Fase de Organização e Apresentação  
 > **Repositório Oficial:** [github.com/snowLH/conselho-estudantil](https://github.com/snowLH/conselho-estudantil)
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FsnowLH%2Fconselho-estudantil)
+
 ---
 
 ## 🏛️ Sobre o Projeto
