@@ -21,6 +21,11 @@ import {
 
 export const dynamic = "force-dynamic";
 
+export async function generateStaticParams() {
+  const decisions = db.getDecisions();
+  return decisions.map((d) => ({ id: d.id }));
+}
+
 interface Props {
   params: Promise<{ id: string }>;
 }
